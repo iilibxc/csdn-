@@ -30,6 +30,6 @@ public class CategoryServlet extends BaseServlet {
 		 */
 		List<Category> parents = categoryService.findAll();
 		req.setAttribute("parents", parents);
-		return "f:/jsps/left.jsp";
+		return "f:/jsps/left.jsp"; //转发到/jsps/left.jsp页面
 	}
  }
