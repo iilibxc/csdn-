@@ -1,0 +1,17 @@
+<!--
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+    <action pattern="/BookServlet/toMainPage">
+        <targetClass>com.yixun.HelloServlet</targetClass>
+        <targetMethod>toMainPage</targetMethod>
+    </action>
+    <action pattern="/StudentServlet/doLogin">
+        <targetClass>com.yixun.HiServlet</targetClass>
+        <targetMethod>doLogin</targetMethod>
+    </action>
+</actions>-->
+<web-app>
+<controller>
+    <controller-class package-scan="controller"/>
+</controller>
+</web-app>
