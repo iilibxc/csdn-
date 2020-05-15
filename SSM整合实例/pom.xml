@@ -20,7 +20,7 @@
     <spring.version>4.3.9.RELEASE</spring.version>
     <mybatis.version>3.4.1</mybatis.version>
     <pagehelper.version>5.0.4</pagehelper.version>
-    <jackson.version>2.8.8</jackson.version>
+    <jackson.version>2.9.10.4</jackson.version>
     <mybatis-spring.version>1.3.0</mybatis-spring.version>
     <c3p0.version>0.9.1.2</c3p0.version>
     <mysql.version>5.1.38</mysql.version>
